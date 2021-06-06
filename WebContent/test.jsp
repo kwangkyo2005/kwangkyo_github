@@ -7,8 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 
 	<h1>hi~~</h1>
 
+=======
+	<h1>d아아아ㅏㅇ</h1>
+>>>>>>> branch 'master' of https://github.com/kwangkyo2005/kwangkyo_github.git
 </body>
 </html>

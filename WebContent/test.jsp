@@ -11,8 +11,10 @@
 
 	<h1>hi~~</h1>
 
-=======
 	<h1>d아아아ㅏㅇ</h1>
->>>>>>> branch 'master' of https://github.com/kwangkyo2005/kwangkyo_github.git
+
+	
+	<h2>hhhhh</h2>
+
 </body>
 </html>
